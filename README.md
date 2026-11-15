@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Circuit Sages: Earth System Trend Detective (v2)
 
 A website that lets anyone pick a city and a climate variable, see how it has changed since 1980,
@@ -62,3 +63,6 @@ the distance from the previous pin.
 - Photos: see `frontend/public/photos/README.md`. Until they are added, the site shows built-in artwork.
 - Deploy: put the backend on Render and the `frontend` folder on Vercel, then set `NEXT_PUBLIC_API_URL`
   to the backend URL and add the Vercel address to `CORS_ORIGINS`.
+=======
+# code
+>>>>>>> d316b0f6a5824b897df2c987c1c8c5c97ad68e82
