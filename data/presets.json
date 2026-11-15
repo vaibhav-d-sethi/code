@@ -1,0 +1,142 @@
+[
+  {
+    "id": "lucknow-temp",
+    "label": "Lucknow: is it getting warmer?",
+    "city": "lucknow",
+    "variable": "T2M_C",
+    "question": "Has air temperature in Lucknow changed between 1980 and 2019?"
+  },
+  {
+    "id": "lucknow-rain",
+    "label": "Lucknow: is rainfall changing?",
+    "city": "lucknow",
+    "variable": "PRECTOTCORR_mm",
+    "question": "Has monthly precipitation in Lucknow changed between 1980 and 2019?"
+  },
+  {
+    "id": "lucknow-temp-recent",
+    "label": "Lucknow: recent warming",
+    "city": "lucknow",
+    "variable": "T2M_C",
+    "question": "Was air temperature in Lucknow higher in 2010 to 2019 than in 1980 to 1989?"
+  },
+  {
+    "id": "lucknow-rain-recent",
+    "label": "Lucknow: wetter lately?",
+    "city": "lucknow",
+    "variable": "PRECTOTCORR_mm",
+    "question": "Was monthly precipitation in Lucknow higher in 2010 to 2019 than in 1980 to 1989?"
+  },
+  {
+    "id": "jaisalmer-temp",
+    "label": "Jaisalmer: is it getting warmer?",
+    "city": "jaisalmer",
+    "variable": "T2M_C",
+    "question": "Has air temperature in Jaisalmer changed between 1980 and 2019?"
+  },
+  {
+    "id": "jaisalmer-rain",
+    "label": "Jaisalmer: is rainfall changing?",
+    "city": "jaisalmer",
+    "variable": "PRECTOTCORR_mm",
+    "question": "Has monthly precipitation in Jaisalmer changed between 1980 and 2019?"
+  },
+  {
+    "id": "jaisalmer-temp-recent",
+    "label": "Jaisalmer: recent warming",
+    "city": "jaisalmer",
+    "variable": "T2M_C",
+    "question": "Was air temperature in Jaisalmer higher in 2010 to 2019 than in 1980 to 1989?"
+  },
+  {
+    "id": "jaisalmer-rain-recent",
+    "label": "Jaisalmer: wetter lately?",
+    "city": "jaisalmer",
+    "variable": "PRECTOTCORR_mm",
+    "question": "Was monthly precipitation in Jaisalmer higher in 2010 to 2019 than in 1980 to 1989?"
+  },
+  {
+    "id": "kochi-temp",
+    "label": "Kochi: is it getting warmer?",
+    "city": "kochi",
+    "variable": "T2M_C",
+    "question": "Has air temperature in Kochi changed between 1980 and 2019?"
+  },
+  {
+    "id": "kochi-rain",
+    "label": "Kochi: is rainfall changing?",
+    "city": "kochi",
+    "variable": "PRECTOTCORR_mm",
+    "question": "Has monthly precipitation in Kochi changed between 1980 and 2019?"
+  },
+  {
+    "id": "kochi-temp-recent",
+    "label": "Kochi: recent warming",
+    "city": "kochi",
+    "variable": "T2M_C",
+    "question": "Was air temperature in Kochi higher in 2010 to 2019 than in 1980 to 1989?"
+  },
+  {
+    "id": "kochi-rain-recent",
+    "label": "Kochi: wetter lately?",
+    "city": "kochi",
+    "variable": "PRECTOTCORR_mm",
+    "question": "Was monthly precipitation in Kochi higher in 2010 to 2019 than in 1980 to 1989?"
+  },
+  {
+    "id": "shimla-temp",
+    "label": "Shimla: is it getting warmer?",
+    "city": "shimla",
+    "variable": "T2M_C",
+    "question": "Has air temperature in Shimla changed between 1980 and 2019?"
+  },
+  {
+    "id": "shimla-rain",
+    "label": "Shimla: is rainfall changing?",
+    "city": "shimla",
+    "variable": "PRECTOTCORR_mm",
+    "question": "Has monthly precipitation in Shimla changed between 1980 and 2019?"
+  },
+  {
+    "id": "shimla-temp-recent",
+    "label": "Shimla: recent warming",
+    "city": "shimla",
+    "variable": "T2M_C",
+    "question": "Was air temperature in Shimla higher in 2010 to 2019 than in 1980 to 1989?"
+  },
+  {
+    "id": "shimla-rain-recent",
+    "label": "Shimla: wetter lately?",
+    "city": "shimla",
+    "variable": "PRECTOTCORR_mm",
+    "question": "Was monthly precipitation in Shimla higher in 2010 to 2019 than in 1980 to 1989?"
+  },
+  {
+    "id": "leh-temp",
+    "label": "Leh: is it getting warmer?",
+    "city": "leh",
+    "variable": "T2M_C",
+    "question": "Has air temperature in Leh changed between 1980 and 2019?"
+  },
+  {
+    "id": "leh-rain",
+    "label": "Leh: is rainfall changing?",
+    "city": "leh",
+    "variable": "PRECTOTCORR_mm",
+    "question": "Has monthly precipitation in Leh changed between 1980 and 2019?"
+  },
+  {
+    "id": "leh-temp-recent",
+    "label": "Leh: recent warming",
+    "city": "leh",
+    "variable": "T2M_C",
+    "question": "Was air temperature in Leh higher in 2010 to 2019 than in 1980 to 1989?"
+  },
+  {
+    "id": "leh-rain-recent",
+    "label": "Leh: wetter lately?",
+    "city": "leh",
+    "variable": "PRECTOTCORR_mm",
+    "question": "Was monthly precipitation in Leh higher in 2010 to 2019 than in 1980 to 1989?"
+  }
+]
